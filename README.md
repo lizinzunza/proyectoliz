@@ -14,6 +14,9 @@ Principalmente:
 - Para poder instalar correctamente las dependencias y node modules necesarios usar: npm install
 - Para correr la aplicación usar el comando: npx expo start --tunnel (Necesario tener instalado anteriormente expo)
     - En caso de no tener el expo instalarlo con el siguiente comando: npm install -g expo-cli exp
+-las credenciales para iniciar sesión son:
+    usuario: liz
+    contraseña: 123
       
 - ¡Listo, disfruta de la vista de la APP!
 
